@@ -3,7 +3,7 @@
 This is a basic plugin template using CommonLibSSE.
 
 ### Requirements
-* [XMake](https://xmake.io) [2.7.8+]
+* [XMake](https://xmake.io) [2.8.2+]
 * C++23 Compiler (MSVC, Clang?)
 
 ## Getting Started
