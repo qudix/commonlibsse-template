@@ -1,6 +1,6 @@
-# CommonLibSSE-NG Plugin Template
+# CommonLibSSE Plugin Template
 
-This is a basic plugin template using CommonLibSSE-NG.
+This is a basic plugin template using CommonLibSSE.
 
 ### Requirements
 * [XMake](https://xmake.io) [2.7.8+]
@@ -8,8 +8,8 @@ This is a basic plugin template using CommonLibSSE-NG.
 
 ## Getting Started
 ```bat
-git clone https://github.com/Qudix/template-commonlibsse-ng
-cd template-commonlibsse-ng
+git clone https://github.com/qudix/commonlibsse-template
+cd commonlibsse-template
 ```
 
 ### Build
