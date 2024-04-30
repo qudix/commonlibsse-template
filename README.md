@@ -8,7 +8,7 @@ This is a basic plugin template using CommonLibSSE.
 
 ## Getting Started
 ```bat
-git clone https://github.com/qudix/commonlibsse-template
+git clone --recurse-submodules https://github.com/qudix/commonlibsse-template
 cd commonlibsse-template
 ```
 
